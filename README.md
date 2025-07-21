@@ -1,3 +1,3 @@
 # throwaway
 
-Authoring my document. It's so fancy.
+Authoring my document. It's super fancy.
